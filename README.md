@@ -1,5 +1,5 @@
-# ชื่อกลุ่ม
-# ชื่อโปรเจค
+# กลุ่ม Tabletop
+# Project: Boardgame Forum
 
 # สมาชิก
 | Github username | ชื่อ  | รหัสนิสิต  |
