@@ -1,5 +1,5 @@
-# กลุ่ม Tabletop
-# Project: Boardgame Forum
+# กลุ่ม Unicorn
+# Project: Boardgame Review Forum
 
 # สมาชิก
 | Github username | ชื่อ  | รหัสนิสิต  |
