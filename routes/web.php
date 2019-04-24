@@ -14,6 +14,6 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/admin_home', 'AdminHomeController@index');
-Route::get('/home', 'HomeController@index');
-Route::get('/news', 'NewsController@index');
+Route::resource('/menus','MenusController');
+Route::resource('/order','ManageOrdersController');
+Route::resource('/customer/order','Customer\OrderController');
